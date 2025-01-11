@@ -15,6 +15,13 @@ __<p style="color: chartreuse">NewHomeBot</p>__  -это телеграм бот
 ____
 + Сохранить папку с проектом на своем устройстве или воспользуйтесь виртуальным хостингом
 + В файле <font color="chartreuse">.env_template</font> введите токен бота и измените название на <font color="chartreuse">.env</font>
++ Создать виртуальное окружение и запустить его:
+  ```
+  python -m venv venv
+  ```
+  ```
+  venv/Scripts/activate
+  ```
 + Запустите python-файл <font color="chartreuse">main.py</font>
 + В [Telegram](https://web.telegram.org/) найдите бота [@NewDomCatBot](https://web.telegram.org/a/#6505985357)\
 
